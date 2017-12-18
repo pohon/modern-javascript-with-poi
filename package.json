@@ -1,5 +1,13 @@
 {
+  "name": "modern-javascipt-with-poi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pohon/modern-javascript-with-poi.git",
+  "author": "Sullivan Osmond <osmond@tiket.com>",
+  "license": "MIT",
   "dependencies": {
-    "moment": "^2.20.0"
+    "moment": "^2.20.0",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6"
   }
 }
